@@ -5,6 +5,6 @@ sleep 0.5
 apt-get -y --purge remove dropbear
 sleep 0.5
 apt -y install dropbear
-wget -O /etc/default/dropbear https://raw.githubusercontent.com/Vlukss/AutoScriptXray-ssh/main/dropbear
+wget -O /etc/default/dropbear https://raw.githubusercontent.com/cerdasbarus/Auto-Script-ssh/main/dropbear
 sleep 0.5
 /etc/init.d/dropbear restart

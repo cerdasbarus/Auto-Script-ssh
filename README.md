@@ -27,5 +27,8 @@
 
 ♦️ jika dropbear off akibat  install sc berulang ulang, copas d link dibawah
 <pre><code>wget -O ins-dropbear.sh https://raw.githubusercontent.com/cerdasbarus/Auto-Script-ssh/main/ins-dropbear.sh && chmod +x ins-dropbear.sh && ./ins-dropbear.sh</code></pre>
+
+### Solusi nginx OFF
+<pre><code>/etc/nginx/nginx.conf</code></pre>
 ### vmes support custom path 
 yang suka edit edit  silahan downlod file==>> 1.zip
